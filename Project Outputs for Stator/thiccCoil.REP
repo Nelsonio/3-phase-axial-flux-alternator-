@@ -1,0 +1,190 @@
+*************************************************************
+FileName = thiccCoil.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : thiccCoil.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : thiccCoil.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : thiccCoil.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : thiccCoil.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : thiccCoil.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : thiccCoil.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : thiccCoil.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Layer 5
+      File : thiccCoil.G4
+
+    Adding Layer      : Layer 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : thiccCoil.G3
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : thiccCoil.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : thiccCoil.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : thiccCoil.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : thiccCoil.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D23
+    D24
+*************************************************************
+
