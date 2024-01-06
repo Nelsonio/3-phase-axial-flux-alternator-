@@ -8,6 +8,5 @@ This repo details how to produce a low-cost alternator for wind power. The aim i
 ![image](https://github.com/Nelsonio/3-phase-axial-flux-alternator-/assets/138862710/f8ede565-42d7-4efa-ad2c-88d461ae1a1b)
 
 ## Assembly
-![image](https://github.com/Nelsonio/3-phase-axial-flux-alternator-/assets/138862710/39145761-da75-4d08-894e-2cbfde85677c)
-![image](https://github.com/Nelsonio/3-phase-axial-flux-alternator-/assets/138862710/907eaa2f-ffbd-4c9c-bad2-6cc0f4122ed0)
+![image](https://github.com/Nelsonio/3-phase-axial-flux-alternator-/assets/138862710/4f8adc17-ddd5-4cf3-9bdc-d930e96140bc)
 
